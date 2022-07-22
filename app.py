@@ -7,5 +7,7 @@ def main():
 
     st.header(str(num1*num2))
 
+    st.text("Made by Samridh Srivastava")
+
 if __name__ == "__main__":
     main()
